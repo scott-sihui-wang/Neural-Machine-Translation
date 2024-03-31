@@ -44,4 +44,10 @@ Python 3.10.6, Pytorch 1.13.1 + cu 117, torchtext 0.6.0
 
 Here are the `BLEU` scores we obtained by different methods:
 
-![BLEU Scores](\demo\BLEU.png)
+![BLEU Scores](/demo/BLEU.png)
+
+Below are the ground truth translation and the translation outcomes obtained by our methods:
+
+![Ground truth](/demo/GT.png)
+
+![Translation](/demo/Translation.png)
