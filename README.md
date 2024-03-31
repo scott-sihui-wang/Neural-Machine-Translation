@@ -44,6 +44,8 @@ Python 3.10.6, Pytorch 1.13.1 + cu 117, torchtext 0.6.0
 
 Here are the `BLEU` scores we obtained by different methods:
 
+`def`: `default method`; `bs`: `baseline method`; `bm`: `baseline method` with `beam search`; `rr`: `replication removal`; `ur`: `<UNK> replacement`; `en`: `ensemble of models`; `k`: the `width` of `beam search`.
+
 ![BLEU Scores](/demo/BLEU.png)
 
 Below are the ground truth translation and the translation outcomes obtained by our methods:
