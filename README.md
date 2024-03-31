@@ -34,10 +34,10 @@ Python 3.10.6, Pytorch 1.13.1 + cu 117, torchtext 0.6.0
 
 `neuralmt_beam_search_with_replication_removal_with_unk_replacement.py`: Add `replication removal` and `<UNK> replacement` to the beam search method.
 
-`neuralmt_ensemble.py`: Implemented beam search, replication removal, and \<UNK\> replacement. In the translation process, implemented an "ensemble" of models (not ensemble decoding).
+`neuralmt_ensemble.py`: Implemented `beam search`, `replication removal`, and `<UNK> replacement`. In the translation process, implemented an `"ensemble" of models` (not ensemble decoding).
 
-`neuralmt_final.py`: The one that produces the best-so-far results. Basically, this is beam search (width=25) + replication removal + \<UNK\> replacement.
+`neuralmt_final.py`: The one that produces `the best-so-far results`. Basically, this is `beam search` (width=25) + `replication removal` + `<UNK> replacement`.
 
-`neuralmt.py`: The same to neuralmt_final.py
+`neuralmt.py`: The same to `neuralmt_final.py`
 
 ## 3. Results
