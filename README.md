@@ -10,7 +10,7 @@ Our tasks are:
 - Implement `beam search` as a better decoding strategy;
 - Implement any techniques to further improve the `BLEU` scores.
 
-**Topics:** _Natural Language Processing_, _Neural Machine Translation_, _Attention Mechanism_
+**Topics:** _Natural Language Processing_, _Neural Machine Translation_, _seq2seq Models_, _Attention Mechanism_
 
 **Skills:** _Pytorch_, _Python_, _Jupyter Lab_
 
