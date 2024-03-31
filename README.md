@@ -14,7 +14,7 @@ Please refer to [neuralmt.ipynb](neuralmt.ipynb) to check out our detailed expla
 
 **Topics:** _Natural Language Processing_, _Neural Machine Translation_, _seq2seq Models_, _Attention Mechanism_
 
-**Skills:** _Pytorch_, _Python_, _Jupyter Lab_
+**Skills:** _Pytorch_, _Python_, _Deep Neural Networks_, _Jupyter Lab_
 
 ## 2. About code prerequisites and functionalities
 
