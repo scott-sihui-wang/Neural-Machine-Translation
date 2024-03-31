@@ -41,3 +41,7 @@ Python 3.10.6, Pytorch 1.13.1 + cu 117, torchtext 0.6.0
 `neuralmt.py`: The same to `neuralmt_final.py`
 
 ## 3. Results
+
+Here are the `BLEU` scores we obtained by different methods:
+
+![BLEU Scores](\demo\BLEU.png)
