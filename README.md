@@ -18,7 +18,9 @@ Please refer to [neuralmt.ipynb](neuralmt.ipynb) to check out our detailed expla
 
 ## 2. About code prerequisites and functionalities
 
-### Prerequisites: Python 3.10.6, Pytorch 1.13.1 + cu 117, torchtext 0.6.0
+### Prerequisites: 
+
+Python 3.10.6, Pytorch 1.13.1 + cu 117, torchtext 0.6.0
 
 ### Functionalities:
 
