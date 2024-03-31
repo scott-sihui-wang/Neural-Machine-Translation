@@ -2,11 +2,13 @@
 
 ## 1. Introduction
 
-In this assignment, initially we are given a `seq2seq` neural machine translation (NMT) network with broken attention mechanism. Our tasks are:
+In this assignment, initially we are given a `seq2seq` neural machine translation (NMT) network with broken attention mechanism.
+
+Our tasks are:
 
 - Correctly implement attention mechanism for the `seq2seq` network;
 - Implement `beam search` as a better decoding strategy;
-- Implement any techniques to improve the `BLEU` scores.
+- Implement any techniques to further improve the `BLEU` scores.
 
 **Topics:** _Natural Language Processing_, _Neural Machine Translation_, _Attention Mechanism_
 
